@@ -1,0 +1,1 @@
+build-essential autoconf automake libtool pkg-config libcurl4-openssl-dev libudev-dev libusb-1.0-0-dev libncurses5-dev zlib1g-dev
